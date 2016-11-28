@@ -1,0 +1,18 @@
+{
+  "name": "data-types-lab",
+  "version": "1.0.0",
+  "description": "Data types Lab",
+  "main": "data-types.js",
+  "directories": {
+    "test": "spec"
+  },
+  "scripts": {
+    "test": "jasmine spec/data-typesSpec.js"
+  },
+  "author": "Genevieve Osuorji",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2"
+  }
+}
